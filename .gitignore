@@ -1,0 +1,14 @@
+**/.gradle/
+**/build/
+**/target/
+**/.idea/
+**/.vscode/
+**/local.properties
+**/*.iml
+**/__pycache__/
+**/*.py[cod]
+.env
+.env.*
+*.jks
+*.keystore
+
